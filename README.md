@@ -1,2 +1,2 @@
 # Task-test
-Application on Task
+The application is made to study LINQ queries
